@@ -1,21 +1,28 @@
-### Olá ...
+<p align="left">Olá!! Me chamo Gisele.</p>
 
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giihalvez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giihalvez&layout=compact&langs_count=16&theme=midnight-purple"/>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giihalvez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giihalvez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="css-icon" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"     
-<img  align="center" height="30" width="40" alt="java-icon" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-          
+###
 
-          
-                                                                              
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/giihalvez/giihalvez/output/snake.svg" alt="Snake animation" />
+
+###
